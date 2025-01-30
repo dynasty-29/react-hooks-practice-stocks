@@ -1,3 +1,8 @@
+body{
+  margin: 70px;
+  padding: 30px;
+  background-color: darkcyan;
+}
 h1 {
   padding: 2rem;
 }
